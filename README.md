@@ -1,5 +1,9 @@
 # The official code for 'EPFDNet: Camouflage Object Detection with Edge Perception in the Frequency Domain'.
 
-# pretrained model
+# The pretrained model
+链接：https://pan.baidu.com/s/12kL8_CbhaMRZoIQOHjbocg?pwd=2258 
+提取码：2258
 
-# Camouflage maps
+# The result maps
+链接：https://pan.baidu.com/s/12kL8_CbhaMRZoIQOHjbocg?pwd=2258 
+提取码：2258
